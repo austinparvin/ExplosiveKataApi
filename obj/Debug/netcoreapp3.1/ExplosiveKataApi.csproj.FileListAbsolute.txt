@@ -1,0 +1,17 @@
+/Users/austinparvin/sdg-projects/ExplosiveKataApi/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/austinparvin/sdg-projects/ExplosiveKataApi/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/austinparvin/sdg-projects/ExplosiveKataApi/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+/Users/austinparvin/sdg-projects/ExplosiveKataApi/bin/Debug/netcoreapp3.1/ExplosiveKataApi.deps.json
+/Users/austinparvin/sdg-projects/ExplosiveKataApi/bin/Debug/netcoreapp3.1/ExplosiveKataApi.runtimeconfig.json
+/Users/austinparvin/sdg-projects/ExplosiveKataApi/bin/Debug/netcoreapp3.1/ExplosiveKataApi.runtimeconfig.dev.json
+/Users/austinparvin/sdg-projects/ExplosiveKataApi/bin/Debug/netcoreapp3.1/ExplosiveKataApi.dll
+/Users/austinparvin/sdg-projects/ExplosiveKataApi/bin/Debug/netcoreapp3.1/ExplosiveKataApi.pdb
+/Users/austinparvin/sdg-projects/ExplosiveKataApi/obj/Debug/netcoreapp3.1/ExplosiveKataApi.csprojAssemblyReference.cache
+/Users/austinparvin/sdg-projects/ExplosiveKataApi/obj/Debug/netcoreapp3.1/ExplosiveKataApi.MvcApplicationPartsAssemblyInfo.cache
+/Users/austinparvin/sdg-projects/ExplosiveKataApi/obj/Debug/netcoreapp3.1/ExplosiveKataApi.AssemblyInfoInputs.cache
+/Users/austinparvin/sdg-projects/ExplosiveKataApi/obj/Debug/netcoreapp3.1/ExplosiveKataApi.AssemblyInfo.cs
+/Users/austinparvin/sdg-projects/ExplosiveKataApi/obj/Debug/netcoreapp3.1/ExplosiveKataApi.RazorTargetAssemblyInfo.cache
+/Users/austinparvin/sdg-projects/ExplosiveKataApi/obj/Debug/netcoreapp3.1/staticwebassets/ExplosiveKataApi.StaticWebAssets.Manifest.cache
+/Users/austinparvin/sdg-projects/ExplosiveKataApi/obj/Debug/netcoreapp3.1/staticwebassets/ExplosiveKataApi.StaticWebAssets.xml
+/Users/austinparvin/sdg-projects/ExplosiveKataApi/obj/Debug/netcoreapp3.1/ExplosiveKataApi.dll
+/Users/austinparvin/sdg-projects/ExplosiveKataApi/obj/Debug/netcoreapp3.1/ExplosiveKataApi.pdb
