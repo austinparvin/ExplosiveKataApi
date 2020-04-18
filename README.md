@@ -11,7 +11,7 @@
 - [EF CORE](https://docs.microsoft.com/en-us/ef/core/)
 - [CONTROLLERS](https://docs.microsoft.com/en-us/dotnet/api/system.web.mvc.controller?view=aspnet-mvc-5.2)
 - [POSTMAN](https://www.postman.com/)
-- MVC design pattern
+- [MVC](https://dotnet.microsoft.com/apps/aspnet/mvc)
 
 ## Featured Code
 
